@@ -40,5 +40,4 @@ tgCrypto
 urllib3
 waybackpy
 xattr
-yt-dlp
-
+yt-dlp==2023.03.04
